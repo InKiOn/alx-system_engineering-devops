@@ -32,11 +32,11 @@ Repository for completing ALX project tasks
 &nbsp;&nbsp;A script that creates a directory called my_dir with permissions 751 in the working directory.\n
 13. Script: ** 13-change_group **
 &nbsp;&nbsp;A script that changes the group owner to school for the file hello\n
-14. Script: **  **
-&nbsp;&nbsp;A script that creates an empty file called hello.\n
-15. Script: **  **
-&nbsp;&nbsp;A script that prints all the groups the current user is part of.\n
-16. Script: **  **
-&nbsp;&nbsp;A script that changes the owner of the file hello to the user betty.\n
-17. Script: **  **
-&nbsp;&nbsp;A script that creates an empty file called hello.\n
+14. Script: ** 100-change_owner_and_group **
+&nbsp;&nbsp;A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.\n
+15. Script: ** 101-symbolic_link_permissions **
+&nbsp;&nbsp;A script that changes the owner and the group owner of _hello _to vincent and staff respectively.\n
+16. Script: ** 102-if_only **
+&nbsp;&nbsp;A script that changes the owner of the file hello to betty only if it is owned by the user guillaume.\n
+17. Script: ** 103-Star_Wars **
+&nbsp;&nbsp;A script that will play the StarWars IV episode in the terminal.\n
