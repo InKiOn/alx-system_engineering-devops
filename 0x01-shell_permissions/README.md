@@ -1,0 +1,42 @@
+# alx-system_engineering-devops
+Repository for completing ALX project tasks
+
+0. Script: ** 0-iam_betty **
+&nbsp;&nbsp;A script that switches the current user to the user betty.\n
+1. Script: ** 1-who_am_i **
+&nbsp;&nbsp;A script that prints the effective username of the current user.\n
+2. Script: ** 2-groups **
+&nbsp;&nbsp;A script that prints all the groups the current user is part of.\n
+3. Script: ** 3-new_owner **
+&nbsp;&nbsp;A script that changes the owner of the file hello to the user betty.\n
+4. Script: ** 4-empty **
+&nbsp;&nbsp;A script that creates an empty file called hello.\n
+5. Script: ** 5-execute **
+&nbsp;&nbsp;A script that adds execute permission to the owner of the file hello.\n
+6. Script: ** 6-multiple_permissions **
+&nbsp;&nbsp;A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.\n
+7. Script: ** 7-everybody **
+&nbsp;&nbsp;A script that adds execution permission to the owner, the group owner and the other users, to the file hello\n
+8. Script: ** 8-James_Bond **
+&nbsp;&nbsp;A script that sets the permission to the file hello as follows:
+    Owner: no permission at all
+    Group: no permission at all
+    Other users: all the permissions.\n
+9. Script: ** 9-John_Doe **
+&nbsp;&nbsp;A script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello\n
+10. Script: ** 10-mirror_permissions **
+&nbsp;&nbsp;A script that sets the mode of the file hello the same as olleh’s mode.\n
+11. Script: ** 11-directories_permissions **
+&nbsp;&nbsp;A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.\n
+12. Script: ** 12-directory_permissions **
+&nbsp;&nbsp;A script that creates a directory called my_dir with permissions 751 in the working directory.\n
+13. Script: ** 13-change_group **
+&nbsp;&nbsp;A script that changes the group owner to school for the file hello\n
+14. Script: **  **
+&nbsp;&nbsp;A script that creates an empty file called hello.\n
+15. Script: **  **
+&nbsp;&nbsp;A script that prints all the groups the current user is part of.\n
+16. Script: **  **
+&nbsp;&nbsp;A script that changes the owner of the file hello to the user betty.\n
+17. Script: **  **
+&nbsp;&nbsp;A script that creates an empty file called hello.\n
