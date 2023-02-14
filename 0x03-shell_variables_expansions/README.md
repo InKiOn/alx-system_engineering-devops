@@ -3,10 +3,10 @@ Directory for ALX project tasks
 
 0. Script: **0-alias**
 &nbsp;&nbsp;<br />A script that creates an alias.
-1. Script: **1-confused_smiley**
-&nbsp;&nbsp;<br />A script that displays a confused smiley "(Ôo)'.
-2. Script: **2-hellofile**
-&nbsp;&nbsp;<br />Display the content of the /etc/passwd file.
+1. Script: **1-hello_you**
+&nbsp;&nbsp;<br />A script that prints hello user, where user is the current Linux user.
+2. Script: **2-path**
+&nbsp;&nbsp;<br />Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 3. Script: **3-twofiles**
 &nbsp;&nbsp;<br />Display the content of /etc/passwd and /etc/hosts.
 4. Script: **4-lastlines**
